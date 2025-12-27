@@ -110,5 +110,5 @@ Video-level deepfake detection
 Mobile deployment with quantization (TFLite / ONNX)
 
 ## Author
-Afsana SHarmin|
+Afsana Sharmin|
 PhD Researcher|AI, ML Learning, Deep Learning
