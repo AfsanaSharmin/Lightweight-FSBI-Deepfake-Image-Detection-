@@ -1,6 +1,5 @@
-# Lightweight-FSBI-Deepfake-Image-Detection-
-Mobile-FSBI: Lightweight Frequency-Enhanced Deepfake Detection for Edge Devices
-##Overview
+# Mobile-FSBI: Lightweight Frequency-Enhanced Deepfake Detection for Edge Devices
+## Overview
 
 Mobile-FSBI is a lightweight deepfake image detection framework designed for resource-constrained environments such as mobile phones, embedded systems, and edge AI devices.
 The project combines Self-Blended Images (SBI) with frequency-domain analysis using Discrete Wavelet Transform (DWT) and a MobileNetV3-Small backbone to achieve strong detection performance with minimal computational cost.
@@ -112,4 +111,4 @@ Mobile deployment with quantization (TFLite / ONNX)
 
 ## Author
 Afsana SHarmin|
-PhD Researcher|AL, ML learning, Deep Learning
+PhD Researcher|AI, ML Learning, Deep Learning
